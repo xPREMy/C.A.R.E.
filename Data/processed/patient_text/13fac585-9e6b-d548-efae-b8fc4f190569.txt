@@ -1,0 +1,6 @@
+Patient ID: 13fac585-9e6b-d548-efae-b8fc4f190569
+Name: Yoshie761 Nolan344
+Gender: female
+Birth Date: 2002-08-07
+Conditions: Medication review due (situation); Viral sinusitis (disorder); Medication review due (situation); Viral sinusitis (disorder); Medication review due (situation); Only received primary school education (finding); Full-time employment (finding); Social isolation (finding); Victim of intimate partner abuse (finding); Primary dental caries (disorder); Medication review due (situation); Prediabetes (finding); Not in labor force (finding); Stress (finding); Normal pregnancy (finding); Chronic congestive heart failure (disorder); Medication review due (situation); Full-time employment (finding); Acute infective cystitis (disorder); Medication review due (situation); Unhealthy alcohol drinking behavior (finding)
+Medications: Seasonique 91 Day Pack; Natazia 28 Day Pack; Yaz 28 Day Pack; Yaz 28 Day Pack; Furosemide 40 MG Oral Tablet; carvedilol 25 MG Oral Tablet; losartan potassium 50 MG Oral Tablet; carvedilol 25 MG Oral Tablet; Furosemide 40 MG Oral Tablet; losartan potassium 50 MG Oral Tablet; sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet; lisinopril 20 MG Oral Tablet; carvedilol 25 MG Oral Tablet; Furosemide 40 MG Oral Tablet; losartan potassium 50 MG Oral Tablet; lisinopril 20 MG Oral Tablet

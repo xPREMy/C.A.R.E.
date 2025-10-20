@@ -1,0 +1,6 @@
+Patient ID: 2605d360-1ae0-8b0d-b43d-86a99bb91621
+Name: Mei233 Breitenberg711
+Gender: female
+Birth Date: 2011-11-29
+Conditions: Seizure disorder (disorder); History of seizure (situation); Epilepsy (disorder); Medication review due (situation); Medication review due (situation); Acute viral pharyngitis (disorder); Medication review due (situation); Streptococcal sore throat (disorder); Fracture of bone (disorder); Fracture of clavicle (disorder); Sprain (morphologic abnormality); Sprain of wrist (disorder); Acute viral pharyngitis (disorder); Viral sinusitis (disorder); Medication review due (situation)
+Medications: Diazepam 5 MG Oral Tablet; Penicillin V Potassium 250 MG Oral Tablet; Ibuprofen 100 MG Oral Tablet; Ibuprofen 100 MG Oral Tablet

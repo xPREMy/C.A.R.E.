@@ -1,0 +1,6 @@
+Patient ID: f0e54184-f5a1-10c7-9f87-f2cbc2535169
+Name: Rachell479 Hegmann834
+Gender: female
+Birth Date: 2007-06-09
+Conditions: Medication review due (situation); Primary dental caries (disorder); Streptococcal sore throat (disorder); Medication review due (situation); Loose dental filling (finding); Loose dental filling (finding); Injury of tendon of the rotator cuff of shoulder (disorder); Gingivitis (disorder); Medication review due (situation); Gingivitis (disorder); Received higher education (finding); Full-time employment (finding); Social isolation (finding); Stress (finding)
+Medications: Penicillin V Potassium 250 MG Oral Tablet; Yaz 28 Day Pack; Natazia 28 Day Pack; Levora 0.15/30 28 Day Pack

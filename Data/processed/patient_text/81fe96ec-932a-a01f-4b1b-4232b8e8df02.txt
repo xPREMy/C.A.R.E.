@@ -1,0 +1,6 @@
+Patient ID: 81fe96ec-932a-a01f-4b1b-4232b8e8df02
+Name: Terrance440 Moore224
+Gender: male
+Birth Date: 2010-09-24
+Conditions: Medication review due (situation); Streptococcal sore throat (disorder); Medication review due (situation); Gingivitis (disorder); Primary dental caries (disorder); Viral sinusitis (disorder); Gingivitis (disorder); Acute bronchitis (disorder); Primary dental caries (disorder); Gingivitis (disorder); Viral sinusitis (disorder); Medication review due (situation); Medication review due (situation); Streptococcal sore throat (disorder); Medication review due (situation); Child attention deficit disorder (disorder)
+Medications: Penicillin V Potassium 250 MG Oral Tablet; Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution; Penicillin V Potassium 250 MG Oral Tablet; Methylphenidate Hydrochloride 20 MG Oral Tablet

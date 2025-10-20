@@ -1,0 +1,6 @@
+Patient ID: 0a2324cf-0d9b-2181-bb66-15f80132b1df
+Name: Mckinley734 Koepp521
+Gender: male
+Birth Date: 1978-07-22
+Conditions: Received higher education (finding); Has a criminal record (finding); Body mass index 30+ - obesity (finding); Stress (finding); Medication review due (situation); Unemployed (finding); Social isolation (finding); Gingivitis (disorder); Primary dental caries (disorder); Acute bronchitis (disorder); Full-time employment (finding); Gingivitis (disorder); Streptococcal sore throat (disorder); Part-time employment (finding); Acute viral pharyngitis (disorder); Medication review due (situation); Full-time employment (finding); Limited social contact (finding); Gingivitis (disorder); Medication review due (situation); Stress (finding)
+Medications: Acetaminophen 325 MG Oral Tablet; Penicillin V Potassium 500 MG Oral Tablet

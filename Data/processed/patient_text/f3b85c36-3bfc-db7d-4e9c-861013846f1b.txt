@@ -1,0 +1,6 @@
+Patient ID: f3b85c36-3bfc-db7d-4e9c-861013846f1b
+Name: Charisse42 Keebler762
+Gender: female
+Birth Date: 2017-11-03
+Conditions: Medication review due (situation); Medication review due (situation); Acute viral pharyngitis (disorder); Medication review due (situation); Medication review due (situation); Medication review due (situation); Acute allergic reaction (disorder); Medication review due (situation); Medication review due (situation); Otitis media (disorder); Otitis media (disorder); Otitis media (disorder); Acute viral pharyngitis (disorder); Acute allergic reaction (disorder); Fracture of bone (disorder); Closed fracture of hip (disorder); Medication review due (situation)
+Medications: cetirizine hydrochloride 5 MG Oral Tablet; NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector; Amoxicillin 500 MG Oral Tablet; Ibuprofen 100 MG Oral Tablet; Amoxicillin 500 MG Oral Tablet; Ibuprofen 100 MG Oral Tablet; Amoxicillin 500 MG Oral Tablet; Ibuprofen 100 MG Oral Tablet; Acetaminophen 160 MG Chewable Tablet

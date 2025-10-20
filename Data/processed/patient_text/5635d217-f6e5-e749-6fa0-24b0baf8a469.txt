@@ -1,0 +1,6 @@
+Patient ID: 5635d217-f6e5-e749-6fa0-24b0baf8a469
+Name: Dana512 Durgan499
+Gender: male
+Birth Date: 1977-04-30
+Conditions: Received higher education (finding); Stress (finding); Prediabetes (finding); Anemia (disorder); Medication review due (situation); Not in labor force (finding); Traumatic injury of spinal cord and/or vertebral column (disorder); Fracture of vertebral column without spinal cord injury (disorder); Full-time employment (finding); Reports of violence in the environment (finding); Gingivitis (disorder); Acute bronchitis (disorder); Body mass index 30+ - obesity (finding); Primary dental caries (disorder); Medication review due (situation); Not in labor force (finding); Gingivitis (disorder); Fractured dental filling (finding); Medication review due (situation); Full-time employment (finding); Part-time employment (finding); Stress (finding); Not in labor force (finding); Gingivitis (disorder); Acute bronchitis (disorder); Acute viral pharyngitis (disorder); Unemployed (finding)
+Medications: Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet; Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution; Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution

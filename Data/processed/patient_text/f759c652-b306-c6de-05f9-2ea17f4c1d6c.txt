@@ -1,0 +1,6 @@
+Patient ID: f759c652-b306-c6de-05f9-2ea17f4c1d6c
+Name: Alexander630 McKenzie376
+Gender: female
+Birth Date: 2003-08-14
+Conditions: Medication review due (situation); Medication review due (situation); Gingivitis (disorder); Gingivitis (disorder); Seizure disorder (disorder); History of seizure (situation); Gingivitis (disorder); Primary dental caries (disorder); Acute viral pharyngitis (disorder); Medication review due (situation); Gingivitis (disorder); Gingival disease (disorder); Fractured dental filling (finding); Acute infective cystitis (disorder); Medication review due (situation); Received higher education (finding); Full-time employment (finding); Lack of access to transportation (finding); Stress (finding); Primary dental caries (disorder); Not in labor force (finding); Transport problem (finding); Misuses drugs (finding); Epilepsy (disorder); Viral sinusitis (disorder)
+Medications: Natazia 28 Day Pack; carbamazepine 20 MG/ML Oral Suspension [Tegretol]; Seasonique 91 Day Pack; carbamazepine 20 MG/ML Oral Suspension [Tegretol]; sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet; Diazepam 5 MG Oral Tablet; Levora 0.15/30 28 Day Pack; carbamazepine 20 MG/ML Oral Suspension [Tegretol]; clonazePAM 0.25 MG Oral Tablet

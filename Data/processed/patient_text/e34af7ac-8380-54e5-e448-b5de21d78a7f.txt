@@ -1,0 +1,6 @@
+Patient ID: e34af7ac-8380-54e5-e448-b5de21d78a7f
+Name: Jae222 Kreiger457
+Gender: male
+Birth Date: 1968-04-05
+Conditions: Received higher education (finding); Loss of teeth (disorder); Body mass index 30+ - obesity (finding); Ischemic heart disease (disorder); Abnormal findings diagnostic imaging heart+coronary circulat (finding); Full-time employment (finding); Medication review due (situation); Stress (finding); Has a criminal record (finding); Acute bronchitis (disorder); Medication review due (situation); Medication review due (situation); Streptococcal sore throat (disorder); Not in labor force (finding); Part-time employment (finding); Reports of violence in the environment (finding); Unhealthy alcohol drinking behavior (finding); Full-time employment (finding); Stress (finding); Medication review due (situation); Part-time employment (finding); Limited social contact (finding); Unemployed (finding); Gingivitis (disorder); Medication review due (situation); Not in labor force (finding)
+Medications: Clopidogrel 75 MG Oral Tablet; Simvastatin 20 MG Oral Tablet; 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet; Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray; Acetaminophen 325 MG Oral Tablet

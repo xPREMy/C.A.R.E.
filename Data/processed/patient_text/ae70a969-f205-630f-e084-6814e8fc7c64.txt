@@ -1,0 +1,6 @@
+Patient ID: ae70a969-f205-630f-e084-6814e8fc7c64
+Name: Tracy345 Ziemann98
+Gender: male
+Birth Date: 2014-01-11
+Conditions: Medication review due (situation); Medication review due (situation); Primary dental caries (disorder); Otitis media (disorder); Medication review due (situation); Acute viral pharyngitis (disorder); Medication review due (situation); Medication review due (situation); Traumatic injury of spinal cord and/or vertebral column (disorder); Fracture of vertebral column without spinal cord injury (disorder); Medication review due (situation); Fracture of bone (disorder); Fracture of ankle (disorder)
+Medications: Amoxicillin 500 MG Oral Tablet; Acetaminophen 160 MG Chewable Tablet; Ibuprofen 100 MG Oral Tablet

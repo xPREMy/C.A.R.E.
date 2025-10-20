@@ -1,0 +1,6 @@
+Patient ID: 341e3cc7-d2d9-0494-4df7-225b360bc715
+Name: Ezekiel373 Hermann103
+Gender: male
+Birth Date: 1989-06-01
+Conditions: Educated to high school level (finding); Full-time employment (finding); Stress (finding); Medication review due (situation); Not in labor force (finding); Unhealthy alcohol drinking behavior (finding); Viral sinusitis (disorder); Viral sinusitis (disorder); Full-time employment (finding); Infection of tooth (disorder); Loss of teeth (disorder); Viral sinusitis (disorder); Laceration injury (disorder); Laceration of thigh (disorder); Medication review due (situation); Part-time employment (finding); Stress (finding); Gingivitis (disorder)
+Medications: Chlorpheniramine Maleate 2 MG/ML Oral Solution; NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector; Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet; Acetaminophen 325 MG Oral Tablet

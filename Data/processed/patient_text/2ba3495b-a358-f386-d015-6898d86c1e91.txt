@@ -1,0 +1,6 @@
+Patient ID: 2ba3495b-a358-f386-d015-6898d86c1e91
+Name: Carmine137 Spinka232
+Gender: male
+Birth Date: 2015-04-04
+Conditions: Viral sinusitis (disorder); Medication review due (situation); Acute viral pharyngitis (disorder); Medication review due (situation); Medication review due (situation); Medication review due (situation); Medication review due (situation); Acute viral pharyngitis (disorder); Medication review due (situation); Medication review due (situation); Sprain (morphologic abnormality); Sprain of ankle (disorder); Medication review due (situation); Medication review due (situation); Gingivitis (disorder); Infection of tooth (disorder); Medication review due (situation); Gingivitis (disorder)
+Medications: Ibuprofen 100 MG Oral Tablet

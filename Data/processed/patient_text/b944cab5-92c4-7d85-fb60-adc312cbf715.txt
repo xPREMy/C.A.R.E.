@@ -1,0 +1,6 @@
+Patient ID: b944cab5-92c4-7d85-fb60-adc312cbf715
+Name: Dave764 Nolan344
+Gender: male
+Birth Date: 2003-05-14
+Conditions: Renal dysplasia (disorder); Anemia (disorder); Medication review due (situation); End-stage renal disease (disorder); Medication review due (situation); Awaiting transplantation of kidney (situation); Medication review due (situation); Medication review due (situation); Medication review due (situation); Medication review due (situation); Medication review due (situation); Medication review due (situation); Medication review due (situation); Medication review due (situation); Medication review due (situation); Medication review due (situation); Acute bronchitis (disorder); Medication review due (situation); Medication review due (situation); Medication review due (situation); Medication review due (situation)
+Medications: Vitamin B12 5 MG/ML Injectable Solution; Acetaminophen 325 MG Oral Tablet

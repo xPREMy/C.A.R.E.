@@ -1,0 +1,6 @@
+Patient ID: c79ba653-136a-f006-77a8-31b598da222c
+Name: Marry53 Hane680
+Gender: female
+Birth Date: 1989-05-21
+Conditions: Risk activity involvement (finding); Received higher education (finding); Unemployed (finding); Transport problem (finding); Lack of access to transportation (finding); Past pregnancy history of miscarriage (situation); Stress (finding); Normal pregnancy (finding); Normal pregnancy (finding); Medication review due (situation); Limited social contact (finding); Primary dental caries (disorder); Normal pregnancy (finding); Eclampsia in pregnancy (disorder); Viral sinusitis (disorder); Medication review due (situation); Full-time employment (finding); Viral sinusitis (disorder); Normal pregnancy (finding); Acute viral pharyngitis (disorder); Part-time employment (finding)
+Medications: Terfenadine 60 MG Oral Tablet; NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector; 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System; 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
