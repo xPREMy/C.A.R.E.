@@ -78,13 +78,6 @@ C.A.R.E/
 └── README.md
 ```
 
-
-**Important:**
-- Only use plain ` (backtick), not ‘ or ’ or “.
-- No indent before the triple backticks or the code.
-- No extra spaces at the beginning
-
-
 ## 💾 3. Input & Output Examples
 
 ### **🩺 Input Example**
