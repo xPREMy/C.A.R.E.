@@ -133,24 +133,42 @@ Ensure you have:
 
 ---
 
-### **2. Clone the Repository**
-```bash
+
+## 🧩 Table of Contents
+- [1. Clone the Repository](#1-clone-the-repository)
+- [2. Create and Activate Virtual Environment](#2-create-and-activate-virtual-environment)
+- [3. Install Dependencies](#3-install-dependencies)
+- [4. Set Up Environment Variables](#4-set-up-environment-variables)
+- [5. Prepare Data Directories](#5-prepare-data-directories)
+- [6. Start the RAG Pipeline Server](#6-start-the-rag-pipeline-server)
+- [7. Start the FastAPI Web Server](#7-start-the-fastapi-web-server)
+- [8. Example Run (Full Command Recap)](#8-example-run-full-command-recap)
+
+---
+
+## 1. Clone the Repository
 git clone https://github.com/<your-username>/C.A.R.E.git
 cd C.A.R.E
-3. Create and Activate Virtual Environment
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate        # On Linux/Mac
-venv\Scripts\activate           # On Windows
-4. Install Dependencies
-bash
-Copy code
-pip install -r requirements.txt
-💡 If you don’t have a requirements.txt, create one with:
 
-css
-Copy code
+text
+
+---
+
+## 2. Create and Activate Virtual Environment
+python -m venv venv
+source venv/bin/activate # On Linux/Mac
+venv\Scripts\activate # On Windows
+
+text
+
+---
+
+## 3. Install Dependencies
+pip install -r requirements.txt
+
+text
+
+💡 If you don’t have a `requirements.txt` file, create one with the following contents:
 fastapi[all]
 uvicorn
 requests
@@ -158,63 +176,105 @@ pathway-xpacks
 litellm
 python-dotenv
 reportlab
-5. Set Up Environment Variables
-Create a file named .env in the project root and add:
 
-bash
-Copy code
+text
+
+---
+
+## 4. Set Up Environment Variables
+Create a file named `.env` in the project root and add:
 HF_TOKEN=your_huggingface_token_here
 OPENAI_API_KEY=your_openai_api_key_here
-6. Prepare the Data Directories
-bash
-Copy code
+
+text
+
+---
+
+## 5. Prepare Data Directories
 mkdir -p Data/processed/patient_text
 mkdir -p Data/processed/research
+
+text
+
 Add at least one sample file:
+echo "Condition: Flu" > Data/processed/patient_text/sample.txt
 
-bash
-Copy code
-Data/processed/patient_text/patient_123.txt
-7. Start the RAG Pipeline Server
+text
+
+---
+
+## 6. Start the RAG Pipeline Server
 In one terminal:
-
-bash
-Copy code
 python src/agent/pipeline.py
+
+text
 Wait for logs confirming the server is running at:
-
-arduino
-Copy code
 http://localhost:8001
-8. Start the FastAPI Web Server
+
+text
+
+---
+
+## 7. Start the FastAPI Web Server
 In another terminal:
-
-bash
-Copy code
 python api_server.py
-Access the web interface at:
 
-arduino
-Copy code
+text
+Access the web interface at:
 http://localhost:8000
-9. Example Run (Full Command Recap)
-bash
-Copy code
-# Clone repo
+
+text
+
+---
+
+## 8. Example Run (Full Command Recap)
+Clone repo
 git clone https://github.com/<your-username>/C.A.R.E.git
 cd C.A.R.E
 
-# Setup environment
+Setup environment
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
-# Prepare data
+Prepare data
 mkdir -p Data/processed/patient_text Data/processed/research
 echo "Condition: Flu" > Data/processed/patient_text/sample.txt
 
-# Run RAG pipeline
+Run RAG pipeline
 python src/agent/pipeline.py
 
-# Run FastAPI server (in another terminal)
+Run FastAPI server (in another terminal)
 python api_server.py
+
+text
+
+Access your web app at: [http://localhost:8000](http://localhost:8000)
+
+---
+
+## 🧠 Notes
+- Ensure your Hugging Face and OpenAI API keys are valid.
+- The `pipeline.py` handles all RAG-based processing.
+- The FastAPI interface allows interactive data exploration.
+
+---
+
+## 🛠️ Tech Stack
+- FastAPI — Web framework
+- Uvicorn — ASGI server
+- LiteLLM — Lightweight LLM interface
+- Pathway X-Packs — Data processing
+- ReportLab — PDF generation
+- Python Dotenv — Env management
+
+---
+This version is fully GitHub-compatible (renders headers, links, and bash formatting properly).
+Would you like it enhanced with badges (Python version, build passing, license, last update)?
+
+Related
+Convert the search results into a single copyable text block
+Extract only the actionable instructions for creating a Markdown TOC
+Create a ready-to-paste README.md with TOC and examples
+List VS Code and CLI commands to generate a TOC
+Show GitHub-flavored header anchor rules and examples
