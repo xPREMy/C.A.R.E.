@@ -146,9 +146,10 @@ Ensure you have:
 ---
 
 ## 1. Clone the Repository
+```
 git clone https://github.com/<your-username>/C.A.R.E.git
 cd C.A.R.E
-
+```
 text
 
 ---
