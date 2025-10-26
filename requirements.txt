@@ -1,0 +1,7 @@
+fastapi[all]
+uvicorn
+requests
+pathway-xpacks
+litellm
+python-dotenv
+reportlab
