@@ -57,24 +57,32 @@ C.A.R.E. follows a **microservice-based architecture**, decoupling the user inte
 
 ### 🧱 Directory Structure
 
+```
 C.A.R.E/
 ├── api_server.py
 ├── src/
-│ ├── agent/
-│ │ └── pipeline.py
-│ ├── data_processing/
-│ │ ├── research_fetcher.py
-│ │ └── patient_educational_material.py
+│   ├── agent/
+│   │   └── pipeline.py
+│   ├── data_processing/
+│   │   ├── research_fetcher.py
+│   │   └── patient_educational_material.py
 ├── Data/
-│ └── processed/
-│ ├── patient_text/
-│ │ └── patient_123.txt
-│ └── research/
+│   └── processed/
+│       ├── patient_text/
+│       │   └── patient_123.txt
+│       └── research/
 ├── templates/
-│ └── index.html
+│   └── index.html
 ├── requirements.txt
 ├── .env
 └── README.md
+```
+```
+
+**Important:**
+- Only use plain ` (backtick), not ‘ or ’ or “.
+- No indent before the triple backticks or the code.
+- No extra spaces at the beginning
 
 
 ## 💾 3. Input & Output Examples
