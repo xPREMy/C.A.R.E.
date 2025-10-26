@@ -150,25 +150,26 @@ Ensure you have:
 git clone https://github.com/<your-username>/C.A.R.E.git
 cd C.A.R.E
 ```
-text
 
 ---
 
 ## 2. Create and Activate Virtual Environment
+```
 python -m venv venv
 source venv/bin/activate # On Linux/Mac
 venv\Scripts\activate # On Windows
-
-text
+```
 
 ---
 
 ## 3. Install Dependencies
+```
 pip install -r requirements.txt
 
-text
+```
 
 💡 If you don’t have a `requirements.txt` file, create one with the following contents:
+```
 fastapi[all]
 uvicorn
 requests
@@ -177,57 +178,63 @@ litellm
 python-dotenv
 reportlab
 
-text
+```
 
 ---
 
 ## 4. Set Up Environment Variables
 Create a file named `.env` in the project root and add:
+```
 HF_TOKEN=your_huggingface_token_here
 OPENAI_API_KEY=your_openai_api_key_here
 
-text
-
+```
 ---
 
 ## 5. Prepare Data Directories
+```
 mkdir -p Data/processed/patient_text
 mkdir -p Data/processed/research
-
-text
+```
 
 Add at least one sample file:
+```
 echo "Condition: Flu" > Data/processed/patient_text/sample.txt
 
-text
-
+```
 ---
 
 ## 6. Start the RAG Pipeline Server
 In one terminal:
+```
 python src/agent/pipeline.py
 
-text
-Wait for logs confirming the server is running at:
-http://localhost:8001
+```
 
-text
+Wait for logs confirming the server is running at:
+```
+http://localhost:8001
+```
 
 ---
 
 ## 7. Start the FastAPI Web Server
 In another terminal:
+```
 python api_server.py
 
-text
+```
+
 Access the web interface at:
+```
 http://localhost:8000
 
-text
+```
 
 ---
 
 ## 8. Example Run (Full Command Recap)
+```
 Clone repo
 git clone https://github.com/<your-username>/C.A.R.E.git
 cd C.A.R.E
@@ -247,7 +254,7 @@ python src/agent/pipeline.py
 Run FastAPI server (in another terminal)
 python api_server.py
 
-text
+```
 
 Access your web app at: [http://localhost:8000](http://localhost:8000)
 
