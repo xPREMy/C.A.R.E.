@@ -65,6 +65,29 @@ C.A.R.E. follows a **microservice-based architecture** — separating the user i
    - Displays a structured treatment plan on the webpage.
    - On “Download PDF,” converts it into a **patient-friendly educational document**.
 
+
+## 🧱 Directory Structure
+
+```bash
+C.A.R.E/
+├── api_server.py
+├── src/
+│   ├── agent/
+│   │   └── pipeline.py
+│   ├── data_processing/
+│   │   ├── research_fetcher.py
+│   │   └── patient_educational_material.py
+├── Data/
+│   └── processed/
+│       ├── patient_text/
+│       │   └── patient_123.txt
+│       └── research/
+├── templates/
+│   └── index.html
+├── requirements.txt
+├── .env
+└── README.md
+
 ---
 
 ## 💾 Input & Output Examples
